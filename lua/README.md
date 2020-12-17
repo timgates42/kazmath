@@ -22,7 +22,7 @@ assert(tbl.z == 3)
 
 Implemented for kmVec*, kmRay*, kmPlane, kmQuaternion
 
-for exmaple
+for example
 ```
 local vec2 = lkazmath.kmVec2New()
 vec2.x = 5
